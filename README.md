@@ -1,1 +1,1 @@
-# It conatains all the files required to start a react project
+ It conatains all the files required to start a react project
